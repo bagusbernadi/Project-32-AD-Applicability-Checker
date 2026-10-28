@@ -20,7 +20,7 @@ Pesawat mana dalam armada yang terkena AD tertentu, berapa jumlahnya per AD dan 
 
 ## 2. Data
 - Sumber data: [here](https://ad.easa.europa.eu/) (Versi: ±15 AD A320 family, nomor AD dan revisi diisi saat Tahap B; Tanggal akses: diisi saat PDF diunduh)
-- Armada: data simulasi ±40 pesawat (A319, A320, A321), dibuat oleh `scripts/generate_fleet.py` (Versi: v1, rancangan).
+- Armada: data simulasi ±40 pesawat (A319, A320, A321), dibuat oleh `scripts/generate_fleet.py` (Versi: v1; Tanggal dibuat: 28 Okt 2026; Seed: 32260302).
 - Ukuran dokumen adalah perkiraan, belum diverifikasi.
 
 ## 3. Analysis
